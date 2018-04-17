@@ -4,5 +4,6 @@
 
 
 void start(void) {
+	printf("Hell man");
 
 }
